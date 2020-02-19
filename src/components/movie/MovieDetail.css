@@ -1,0 +1,18 @@
+.movie_detail {
+  background-color: #fff;
+}
+
+.movie_detail button {
+  width: 160px;
+  height: 40px;
+  line-height: 40px;
+}
+
+.movie_detail .img_list {
+    list-style: none;
+    display: flex;
+}
+
+.ant-layout-content {
+    background-color: #fff!important;
+}
